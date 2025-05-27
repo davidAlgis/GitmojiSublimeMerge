@@ -4,7 +4,7 @@ A simple sublime merge plugin to have a quick-access to [gitmoji](https://github
 
 ## Installation
 
-1. Download the file : `Gitmoji.sublime-commands`
+1. Download the file : [`gitmoji.sublime-commands`](https://github.com/davidAlgis/GitmojiSublimeMerge/blob/main/gitmoji.sublime-commands)
 2. Copy it into your user package
 
 ```
