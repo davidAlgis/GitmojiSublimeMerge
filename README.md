@@ -1,6 +1,6 @@
 # Sublime Merge Gitmoji Commands
 
-A simple sublime merge plugin to have a quick-access to [https://github.com/carloscuesta/gitmoji](gitmoji) for Sublime Merge commit message.
+A simple sublime merge plugin to have a quick-access to [gitmoji](https://github.com/carloscuesta/gitmoji) for Sublime Merge commit message.
 
 ## Installation
 
