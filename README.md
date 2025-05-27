@@ -10,7 +10,7 @@ A simple sublime merge plugin to have a quick-access to [gitmoji](https://github
 ```
 Sublime Merge ▸ Preferences ▸ Browse Packages…
 ````
-Drop the file inside the **`User/`** folder.
+Drop the file inside the `User/` folder.
 
 ## How it works
 
