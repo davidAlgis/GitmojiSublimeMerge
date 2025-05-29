@@ -1,517 +1,517 @@
 [
     {
-        "caption": "Gitmoji: Improve structure/ format of the code :art:",
+        "caption": "Gitmoji:🎨 Improve structure/ format of the code :art:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🎨"
         }
     },
     {
-        "caption": "Gitmoji: Improve performance :zap:",
+        "caption": "Gitmoji:⚡️ Improve performance :zap:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "⚡️"
         }
     },
     {
-        "caption": "Gitmoji: Remove code or files :fire:",
+        "caption": "Gitmoji:🔥 Remove code or files :fire:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🔥"
         }
     },
     {
-        "caption": "Gitmoji: Fix a bug :bug:",
+        "caption": "Gitmoji:🐛 Fix a bug :bug:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🐛"
         }
     },
     {
-        "caption": "Gitmoji: Critical hotfix :ambulance:",
+        "caption": "Gitmoji:🚑️ Critical hotfix :ambulance:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🚑️"
         }
     },
     {
-        "caption": "Gitmoji: Introduce new features :sparkles:",
+        "caption": "Gitmoji:✨ Introduce new features :sparkles:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "✨"
         }
     },
     {
-        "caption": "Gitmoji: Add or update documentation :memo:",
+        "caption": "Gitmoji:📝 Add or update documentation :memo:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "📝"
         }
     },
     {
-        "caption": "Gitmoji: Deploy stuff :rocket:",
+        "caption": "Gitmoji:🚀 Deploy stuff :rocket:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🚀"
         }
     },
     {
-        "caption": "Gitmoji: Add or update the UI and style files :lipstick:",
+        "caption": "Gitmoji:💄 Add or update the UI and style files :lipstick:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "💄"
         }
     },
     {
-        "caption": "Gitmoji: Begin a project :tada:",
+        "caption": "Gitmoji:🎉 Begin a project :tada:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🎉"
         }
     },
     {
-        "caption": "Gitmoji: Add, update, or pass tests :white_check_mark:",
+        "caption": "Gitmoji:✅ Add, update, or pass tests :white_check_mark:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "✅"
         }
     },
     {
-        "caption": "Gitmoji: Fix security or privacy issues :lock:",
+        "caption": "Gitmoji:🔒️ Fix security or privacy issues :lock:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🔒️"
         }
     },
     {
-        "caption": "Gitmoji: Add or update secrets :closed_lock_with_key:",
+        "caption": "Gitmoji:🔐 Add or update secrets :closed_lock_with_key:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🔐"
         }
     },
     {
-        "caption": "Gitmoji: Release/ Version tags :bookmark:",
+        "caption": "Gitmoji:🔖 Release/ Version tags :bookmark:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🔖"
         }
     },
     {
-        "caption": "Gitmoji: Fix compiler/ linter warnings :rotating_light:",
+        "caption": "Gitmoji:🚨 Fix compiler/ linter warnings :rotating_light:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🚨"
         }
     },
     {
-        "caption": "Gitmoji: Work in progress :construction:",
+        "caption": "Gitmoji:🚧 Work in progress :construction:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🚧"
         }
     },
     {
-        "caption": "Gitmoji: Fix CI Build :green_heart:",
+        "caption": "Gitmoji:💚 Fix CI Build :green_heart:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "💚"
         }
     },
     {
-        "caption": "Gitmoji: Downgrade dependencies :arrow_down:",
+        "caption": "Gitmoji:⬇️ Downgrade dependencies :arrow_down:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "⬇️"
         }
     },
     {
-        "caption": "Gitmoji: Upgrade dependencies :arrow_up:",
+        "caption": "Gitmoji:⬆️ Upgrade dependencies :arrow_up:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "⬆️"
         }
     },
     {
-        "caption": "Gitmoji: Pin dependencies to specific versions :pushpin:",
+        "caption": "Gitmoji:📌 Pin dependencies to specific versions :pushpin:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "📌"
         }
     },
     {
-        "caption": "Gitmoji: Add or update CI build system :construction_worker:",
+        "caption": "Gitmoji:👷 Add or update CI build system :construction_worker:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "👷"
         }
     },
     {
-        "caption": "Gitmoji: Add or update analytics or track code :chart_with_upwards_trend:",
+        "caption": "Gitmoji:📈 Add or update analytics or track code :chart_with_upwards_trend:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "📈"
         }
     },
     {
-        "caption": "Gitmoji: Refactor code :recycle:",
+        "caption": "Gitmoji:♻️ Refactor code :recycle:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "♻️"
         }
     },
     {
-        "caption": "Gitmoji: Add a dependency :heavy_plus_sign:",
+        "caption": "Gitmoji:➕ Add a dependency :heavy_plus_sign:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "➕"
         }
     },
     {
-        "caption": "Gitmoji: Remove a dependency :heavy_minus_sign:",
+        "caption": "Gitmoji:➖ Remove a dependency :heavy_minus_sign:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "➖"
         }
     },
     {
-        "caption": "Gitmoji: Add or update configuration files :wrench:",
+        "caption": "Gitmoji:🔧 Add or update configuration files :wrench:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🔧"
         }
     },
     {
-        "caption": "Gitmoji: Add or update development scripts :hammer:",
+        "caption": "Gitmoji:🔨 Add or update development scripts :hammer:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🔨"
         }
     },
     {
-        "caption": "Gitmoji: Internationalization and localization :globe_with_meridians:",
+        "caption": "Gitmoji:🌐 Internationalization and localization :globe_with_meridians:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🌐"
         }
     },
     {
-        "caption": "Gitmoji: Fix typos :pencil2:",
+        "caption": "Gitmoji:✏️ Fix typos :pencil2:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "✏️"
         }
     },
     {
-        "caption": "Gitmoji: Write bad code that needs to be improved :poop:",
+        "caption": "Gitmoji:💩 Write bad code that needs to be improved :poop:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "💩"
         }
     },
     {
-        "caption": "Gitmoji: Revert changes :rewind:",
+        "caption": "Gitmoji:⏪️ Revert changes :rewind:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "⏪️"
         }
     },
     {
-        "caption": "Gitmoji: Merge branches :twisted_rightwards_arrows:",
+        "caption": "Gitmoji:🔀 Merge branches :twisted_rightwards_arrows:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🔀"
         }
     },
     {
-        "caption": "Gitmoji: Add or update compiled files or packages :package:",
+        "caption": "Gitmoji:📦️ Add or update compiled files or packages :package:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "📦️"
         }
     },
     {
-        "caption": "Gitmoji: Update code due to external API changes :alien:",
+        "caption": "Gitmoji:👽️ Update code due to external API changes :alien:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "👽️"
         }
     },
     {
-        "caption": "Gitmoji: Move or rename resources (e.g.: files, paths, routes) :truck:",
+        "caption": "Gitmoji:🚚 Move or rename resources (e.g.: files, paths, routes) :truck:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🚚"
         }
     },
     {
-        "caption": "Gitmoji: Add or update license :page_facing_up:",
+        "caption": "Gitmoji:📄 Add or update license :page_facing_up:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "📄"
         }
     },
     {
-        "caption": "Gitmoji: Introduce breaking changes :boom:",
+        "caption": "Gitmoji:💥 Introduce breaking changes :boom:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "💥"
         }
     },
     {
-        "caption": "Gitmoji: Add or update assets :bento:",
+        "caption": "Gitmoji:🍱 Add or update assets :bento:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🍱"
         }
     },
     {
-        "caption": "Gitmoji: Improve accessibility :wheelchair:",
+        "caption": "Gitmoji:♿️ Improve accessibility :wheelchair:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "♿️"
         }
     },
     {
-        "caption": "Gitmoji: Add or update comments in source code :bulb:",
+        "caption": "Gitmoji:💡 Add or update comments in source code :bulb:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "💡"
         }
     },
     {
-        "caption": "Gitmoji: Write code drunkenly :beers:",
+        "caption": "Gitmoji:🍻 Write code drunkenly :beers:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🍻"
         }
     },
     {
-        "caption": "Gitmoji: Add or update text and literals :speech_balloon:",
+        "caption": "Gitmoji:💬 Add or update text and literals :speech_balloon:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "💬"
         }
     },
     {
-        "caption": "Gitmoji: Perform database related changes :card_file_box:",
+        "caption": "Gitmoji:🗃️ Perform database related changes :card_file_box:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🗃️"
         }
     },
     {
-        "caption": "Gitmoji: Add or update logs :loud_sound:",
+        "caption": "Gitmoji:🔊 Add or update logs :loud_sound:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🔊"
         }
     },
     {
-        "caption": "Gitmoji: Remove logs :mute:",
+        "caption": "Gitmoji:🔇 Remove logs :mute:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🔇"
         }
     },
     {
-        "caption": "Gitmoji: Add or update contributor(s) :busts_in_silhouette:",
+        "caption": "Gitmoji:👥 Add or update contributor(s) :busts_in_silhouette:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "👥"
         }
     },
     {
-        "caption": "Gitmoji: Improve user experience/ usability :children_crossing:",
+        "caption": "Gitmoji:🚸 Improve user experience/ usability :children_crossing:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🚸"
         }
     },
     {
-        "caption": "Gitmoji: Make architectural changes :building_construction:",
+        "caption": "Gitmoji:🏗️ Make architectural changes :building_construction:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🏗️"
         }
     },
     {
-        "caption": "Gitmoji: Work on responsive design :iphone:",
+        "caption": "Gitmoji:📱 Work on responsive design :iphone:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "📱"
         }
     },
     {
-        "caption": "Gitmoji: Mock things :clown_face:",
+        "caption": "Gitmoji:🤡 Mock things :clown_face:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🤡"
         }
     },
     {
-        "caption": "Gitmoji: Add or update an easter egg :egg:",
+        "caption": "Gitmoji:🥚 Add or update an easter egg :egg:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🥚"
         }
     },
     {
-        "caption": "Gitmoji: Add or update a .gitignore file :see_no_evil:",
+        "caption": "Gitmoji:🙈 Add or update a .gitignore file :see_no_evil:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🙈"
         }
     },
     {
-        "caption": "Gitmoji: Add or update snapshots :camera_flash:",
+        "caption": "Gitmoji:📸 Add or update snapshots :camera_flash:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "📸"
         }
     },
     {
-        "caption": "Gitmoji: Perform experiments :alembic:",
+        "caption": "Gitmoji:⚗️ Perform experiments :alembic:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "⚗️"
         }
     },
     {
-        "caption": "Gitmoji: Improve SEO :mag:",
+        "caption": "Gitmoji:🔍️ Improve SEO :mag:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🔍️"
         }
     },
     {
-        "caption": "Gitmoji: Add or update types :label:",
+        "caption": "Gitmoji:🏷️ Add or update types :label:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🏷️"
         }
     },
     {
-        "caption": "Gitmoji: Add or update seed files :seedling:",
+        "caption": "Gitmoji:🌱 Add or update seed files :seedling:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🌱"
         }
     },
     {
-        "caption": "Gitmoji: Add, update, or remove feature flags :triangular_flag_on_post:",
+        "caption": "Gitmoji:🚩 Add, update, or remove feature flags :triangular_flag_on_post:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🚩"
         }
     },
     {
-        "caption": "Gitmoji: Catch errors :goal_net:",
+        "caption": "Gitmoji:🥅 Catch errors :goal_net:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🥅"
         }
     },
     {
-        "caption": "Gitmoji: Add or update animations and transitions :dizzy:",
+        "caption": "Gitmoji:💫 Add or update animations and transitions :dizzy:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "💫"
         }
     },
     {
-        "caption": "Gitmoji: Deprecate code that needs to be cleaned up :wastebasket:",
+        "caption": "Gitmoji:🗑️ Deprecate code that needs to be cleaned up :wastebasket:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🗑️"
         }
     },
     {
-        "caption": "Gitmoji: Work on code related to authorization, roles and permissions :passport_control:",
+        "caption": "Gitmoji:🛂 Work on code related to authorization, roles and permissions :passport_control:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🛂"
         }
     },
     {
-        "caption": "Gitmoji: Simple fix for a non-critical issue :adhesive_bandage:",
+        "caption": "Gitmoji:🩹 Simple fix for a non-critical issue :adhesive_bandage:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🩹"
         }
     },
     {
-        "caption": "Gitmoji: Data exploration/inspection :monocle_face:",
+        "caption": "Gitmoji:🧐 Data exploration/inspection :monocle_face:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🧐"
         }
     },
     {
-        "caption": "Gitmoji: Remove dead code :coffin:",
+        "caption": "Gitmoji:⚰️ Remove dead code :coffin:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "⚰️"
         }
     },
     {
-        "caption": "Gitmoji: Add a failing test :test_tube:",
+        "caption": "Gitmoji:🧪 Add a failing test :test_tube:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🧪"
         }
     },
     {
-        "caption": "Gitmoji: Add or update business logic :necktie:",
+        "caption": "Gitmoji:👔 Add or update business logic :necktie:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "👔"
         }
     },
     {
-        "caption": "Gitmoji: Add or update healthcheck :stethoscope:",
+        "caption": "Gitmoji:🩺 Add or update healthcheck :stethoscope:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🩺"
         }
     },
     {
-        "caption": "Gitmoji: Infrastructure related changes :bricks:",
+        "caption": "Gitmoji:🧱 Infrastructure related changes :bricks:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🧱"
         }
     },
     {
-        "caption": "Gitmoji: Improve developer experience :technologist:",
+        "caption": "Gitmoji:🧑‍💻 Improve developer experience :technologist:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🧑‍💻"
         }
     },
     {
-        "caption": "Gitmoji: Add sponsorships or money related infrastructure :money_with_wings:",
+        "caption": "Gitmoji:💸 Add sponsorships or money related infrastructure :money_with_wings:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "💸"
         }
     },
     {
-        "caption": "Gitmoji: Add or update code related to multithreading or concurrency :thread:",
+        "caption": "Gitmoji:🧵 Add or update code related to multithreading or concurrency :thread:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🧵"
         }
     },
     {
-        "caption": "Gitmoji: Add or update code related to validation :safety_vest:",
+        "caption": "Gitmoji:🦺 Add or update code related to validation :safety_vest:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "🦺"
         }
     },
     {
-        "caption": "Gitmoji: Improve offline support :airplane:",
+        "caption": "Gitmoji:✈️ Improve offline support :airplane:",
         "command": "copy_to_clipboard",
         "args": {
             "text": "✈️"
