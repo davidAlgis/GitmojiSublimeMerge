@@ -41,7 +41,7 @@ def clean_description(desc: str) -> str:
 
 def gitmoji_to_command(g: Dict[str, str]) -> Dict:
     """Convert a single gitmoji entry to a Sublime command-palette command."""
-    caption = f"Gitmoji: {clean_description(g['description'])} {g['code']}"
+    caption = f"Gitmoji:{g['emoji']} {clean_description(g['description'])} {g['code']}"
     f"({g['emoji']})"
     return {
         "caption": caption,
